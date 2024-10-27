@@ -1,5 +1,5 @@
 
-# How To Make
+# How to Run
 ````
 apt update && apt upgrade -y
 ````
