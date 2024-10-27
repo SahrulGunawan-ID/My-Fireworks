@@ -9,7 +9,12 @@ apt install nodejs -y
 ````
 git clone https://github.com/SahrulGunawan-ID/My-Fireworks
 ````
-
+````
+cd My-Fireworks
+````
+````
+node server.js
+````
 # Edit Files
 [*] server.js
 
